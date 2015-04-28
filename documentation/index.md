@@ -5,6 +5,8 @@
 Appcelerator Titanium module for helping with CloudPayments.ru's transaction chain.
 Check the details at https://github.com/cloudpayments/CloudPayments_iOSSDKDemo
 
+Ready-to-use module located in dist/ folder.
+
 ## Referencing the module in your Titanium Mobile application ##
 
 Simply add the following lines to your `tiapp.xml` file:
