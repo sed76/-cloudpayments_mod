@@ -1,8 +1,9 @@
-# Titanium Mobile Module for Cloudpayments IOS Module
+# Titanium Mobile Module for Cloudpayments iOS SDK
 
 ## Description
 
 Appcelerator Titanium module for helping with CloudPayments.ru's transaction chain.
+Check the details at https://github.com/cloudpayments/CloudPayments_iOSSDKDemo
 
 ## Referencing the module in your Titanium Mobile application ##
 
